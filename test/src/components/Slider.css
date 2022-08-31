@@ -1,0 +1,13 @@
+.slider  {
+    box-sizing: border-box;
+
+/* position: absolute; */
+width: 662px;
+height: 18px;
+left: 269px;
+top: 2012px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 12px;
+}

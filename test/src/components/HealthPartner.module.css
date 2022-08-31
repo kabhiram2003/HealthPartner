@@ -1,0 +1,192 @@
+.rectangle-top {
+    /* Rectangle */
+
+
+/* position: absolute; */
+width: 900px;
+height: 544px;
+left: 1050px;
+top: 222px;
+
+background: #BBFFDE;
+border-radius: 12px;
+/* transform: matrix(1, 0, 0, 1, 0, 0);  changed */
+margin-bottom: 76px;
+}
+.header {
+    /* Health Partner */
+
+
+/* position: absolute;
+width: 400px;
+height: 54px; */
+left: 526px;
+top: 247px;                           /* changed*/
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 54px;
+line-height: 54px;
+margin-bottom: 0;
+/* identical to box height, or 100% */
+margin-top: 25px;
+
+color: #3B3B3B;
+
+}
+.program {
+    /* Program */
+
+
+/* position: absolute;
+width: 404px;
+height: 96px; */
+left: 526px;
+top: 292px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 92px;
+line-height: 96px;
+margin-top: 0;
+margin-bottom: 40px;
+/* identical to box height, or 104% */
+
+
+color: #3B3B3B;
+
+}
+
+.apply {
+    /* position: absolute;
+width: 93px;
+height: 26px; */
+left: 264px;
+top: 694px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 25px;
+/* identical to box height, or 148% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.apply-rectangle {
+     /* position: absolute; */
+width: 165px;
+height: 26px; 
+left: 393px;
+top: 693px;
+
+background: #FF6F61;
+border-radius: 4px;
+margin-top: 25px;
+margin-left: 50px;
+/* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+
+.image {
+    /* IMAGE */
+
+/* position: absolute; */
+/* width: 342px; */
+/* height: 342px; */
+/* left: 516px; /* changed */
+/*top: 318px; */
+margin-top: 90px;
+border-color: white;
+/* border-radius: 0px; */
+/* transform: matrix(1, 0, 0, 1, 0, 0);        changed */
+
+}
+.line {
+    box-sizing: border-box;
+
+/* position: absolute;
+width: 828px;
+height: 2px; */
+left: 400px;                               /* changed*/
+top: 460px;
+
+border: 1px solid #969696;
+border-radius: 0px;
+/* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.para_1 {
+    /* position: absolute;
+width: 379px;
+height: 48px; */
+left: 526px;
+top: 463px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 147% */
+
+
+color: #3B3B3B;
+}
+.para_2 {
+    /* position: absolute;
+width: 454px;
+height: 95px; */
+left: 526px;
+top: 521px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* or 138% */
+
+
+color: #3B3B3B;
+
+}
+.para_3 {
+    /* position: absolute;
+width: 450px;
+height: 48px; */
+left: 526px;
+top: 625px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* or 138% */
+
+
+color: #3B3B3B;
+
+}
+.para_4  {
+    /* position: absolute;
+width: 457px;
+height: 71px; */
+left: 526px;
+top: 683px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* or 138% */
+
+
+color: #3B3B3B;
+
+}

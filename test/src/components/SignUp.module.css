@@ -1,0 +1,139 @@
+.rect {
+    /* position: absolute; */
+width: 900px;
+height: 372px;
+left: 150px;
+top: 2456px;
+
+background: #BCEFFF;
+border-radius: 12px;
+margin-bottom: 20px;
+/* margin-left: 50px; */
+}
+.header {
+    /* position: absolute; */
+width: 400px;
+height: 48px;
+left: 301px;
+top: 2492px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 47px;
+/* or 138% */
+margin-left: 36px;
+margin-top: 36px;
+color: #3B3B3B;
+}
+.button-rect {
+     /* position: absolute; */
+width: 260px;
+height: 26px; 
+left: 258px;
+top: 2575px;
+
+background: #FF6F61;
+border-radius: 4px;
+margin-top: 30px;
+margin-left: 72px;
+}
+.button{
+    /* position: absolute;
+width: 188px;
+height: 24px; */
+left: 258px;
+top: 2575px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 147% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.line {
+    box-sizing: border-box;
+
+/* position: absolute;
+width: 588px;
+height: 2px; */
+left: 462px;
+top: 2515px;
+
+border: 1px solid #969696;
+border-radius: 0px;
+margin-top: 70px;
+}
+.label{
+    /* position: absolute; */
+width: 503px;
+height: 34px;
+left: 349px;
+top: 2840px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 34px;
+/* identical to box height, or 140% */
+
+text-align: center;
+/* margin-bottom: 48px; */
+color: #3B3B3B;
+}
+.image {
+    /* position: absolute; */
+width: 324px;
+height: 296px;
+left: 726px;
+top: 2521px;
+
+/* background: url(sign-up-membership-registration-follow-concept); */
+border-radius: 0px 0px 12px 0px;
+/* margin-bottom: 200px; */
+margin-left: 119px;
+margin-top: -40px;
+
+}
+.content  {
+    /* position: absolute; */
+width: 356px;
+height: 24px;
+left: 222px;
+top: 2629px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* identical to box height, or 138% */
+
+
+color: #3B3B3B;
+}
+.text {
+    /* position: absolute; */
+width: 356px;
+height: 24px;
+left: 222px;
+top: 2629px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* identical to box height, or 138% */
+margin-left: 72px;
+
+color: #3B3B3B;
+}

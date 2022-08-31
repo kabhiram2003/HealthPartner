@@ -1,0 +1,145 @@
+.rect-task {
+      /* position: absolute;  */
+width: 900px;
+height: 443px; 
+left: 150px;
+top: 842px;
+margin-top: 10;
+background: #15637E;
+border-radius: 12px;
+/* margin-left: 200px; */
+margin-bottom: 75px;
+}
+
+.hed-1 {
+    /* position: absolute; */
+    width: 156px;
+    height: 34px;
+    left: 186px;
+    top: 878px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    
+    margin-left: 20px;
+    color: #FFFFFF;
+    margin-top: 36px;
+
+}
+.hed-2 {
+    /* position: absolute;
+width: 310px;
+height: 48px; */
+left: 186px;
+top: 911px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 47px;
+/* or 143% */
+margin-left: 20px;
+
+color: #FFFFFF;
+
+}
+.line {
+    box-sizing: border-box;
+
+/* /* position: absolute; */
+width: 506px;
+height: 2px; 
+/* left: 508px;
+top: 933px; */
+margin-top: 91px;
+margin-right: 20px;
+border: 1px solid #969696;
+border-radius: 0px;
+}
+.image {
+    /* /* position: absolute; */
+width: 293px;
+height: 248px; 
+left: 669px;
+top: 982px;
+
+border-radius: 0px;
+/* margin-top: 47px; */
+margin-right: 88px;
+}
+.p-1 {
+    /* position: absolute; */
+width: 381px;
+height: 48px;
+left: 210px;
+top: 981px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* or 138% */
+margin-left: 50px;
+
+color: #FFFFFF;
+
+}
+.p-2 {
+    /* position: absolute;
+width: 435px;
+height: 71px; */
+left: 210px;
+top: 1051px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* or 138% */
+
+
+/* color: #FFFFFF; */
+
+}
+.p-3 {
+    /* position: absolute;
+    width: 377px;
+    height: 24px; */
+    left: 210px;
+    top: 1144px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 147% */
+    
+    
+    /* color: #FFFFFF; */
+}
+.p-4 {
+    /* position: absolute;
+width: 327px;
+height: 24px; */
+left: 210px;
+top: 1191px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 147% */
+
+
+/* color: #FFFFFF; */
+
+}
